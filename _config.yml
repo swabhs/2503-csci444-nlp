@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: USC CSCI 444 Fall 2025
-tagline: CSCI 544 Fall 2025&#58; NLP
+tagline: CSCI 444 Fall 2025&#58; NLP
 description: 🍂 Fall 2025
 author: Swabha Swayamdipta
 baseurl: '/2503-csci444-nlp' # the subpath of your site, e.g. /blog

@@ -1,17 +1,17 @@
 ---
 layout: home
-title: USC CSCI 544 Fall 2024 - Applied NLP
+title: USC CSCI 444 Fall 2024 - NLP
 nav_exclude: true
 toc: true
 seo:
   type: Course
-  name: Language Models in NLP
+  name: Natural Language Processing
 ---
 
 # {{ site.tagline }}
 {: .no_toc .mb-2 }
 <!-- {{ site.description }} -->
-🍂 Fall 2024 &nbsp; &nbsp; ⏰  Tue / Thu 4:00 - 5:50p  &nbsp; &nbsp; 📍 [SAL](https://maps.usc.edu/?id=1928&reference=DMC#!m/552467?share) 101
+🍂 Fall 2025 &nbsp; &nbsp; ⏰  Mon / Wed 10:00 - 11:50a  &nbsp; &nbsp; 📍 [WPH](https://maps.usc.edu/?id=1928&reference=WPH#!m/552624?s/) 106
 {: .fs-6 .fw-300 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -40,7 +40,7 @@ seo:
 
 ## Announcements
 
-See [Brightspace](https://brightspace.usc.edu/d2l/lms/news/main.d2l?ou=114109).
+<!-- See [Brightspace](https://brightspace.usc.edu/d2l/lms/news/main.d2l?ou=114109). -->
 
 <!-- {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
@@ -49,7 +49,8 @@ See [Brightspace](https://brightspace.usc.edu/d2l/lms/news/main.d2l?ou=114109).
 
 ## Summary
 
-This course covers both fundamental and cutting-edge topics in Natural Language Processing (NLP) with a focus on Language Models. Natural language processing (NLP) has been revolutionized by the advancement of large-scale language models achieving state-of-the-art performance across a wide variety of tasks. This course will cover the fundamentals of language modeling and related topics in natural language processing, deep learning and machine learning. Students will gain familiarity with the capabilities of large language models as well as get hands-on experience with building and evaluating small-scale language models. The class will also explore the real-world consequences of deploying language models, such as the ethics and harms associated with them
+Natural Language Processing (NLP) is an area of computing research and practice that aims to enable machines to reason over human text and speech. High profile technologies like ChatGPT brought NLP to the forefront of public discussion both inside and outside academia. But what underpins such technologies? This course will explore how natural language can serve as an interaction medium between users and machines with a focus on the history and development of language models (LMs). Students will become familiar with concepts and methods in NLP like distributional semantics, and see how those concepts feed into the architectural design of modern LMs trained using deep learning, and will get hands-on experience with building and evaluating small-scale LMs. The class will also explore details and variants of the real-world consequences of deploying large-scale LMs and NLP technologies more generally, such as the ethics and harms associated with them.
+
 
 ## Calendar + Syllabus
 

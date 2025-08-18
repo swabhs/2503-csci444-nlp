@@ -1,41 +1,39 @@
 - week: 1
   days:
+    - date: Aug 25
+      theme: Introduction and Course Overview
+      slides:
     - date: Aug 27
-      theme: Introduction to LMs and Course Overview
-      slides: "./assets/slides/24f-csci544-appliednlp-lec01-introduction.pdf"
-    - date: Aug 29
       theme: n-gram Models
-      slides: "./assets/slides/24f-csci544-appliednlp-lec02-ngrams.pdf"
+      slides:
       readings: J&M, Chap 3
       readingslink: "https://web.stanford.edu/~jurafsky/slp3/3.pdf"
+      due: HW1 Released
 
 
 - week: 2
   days:
+    - date: Sep 1
+      theme: No Class / Labor Day
+      slides:
     - date: Sep 3
       theme: n-gram Language Models (Smoothing) + Logistic Regression
-      slides: "./assets/slides/24f-csci544-appliednlp-lec03-ngrams-contd-textcat.pdf"
-      readings: J&M, Chap 3
-      readingslink: "https://web.stanford.edu/~jurafsky/slp3/3.pdf"
-      due: HW1 Released
-    - date: Sep 5
-      theme: Logistic Regression (contd.)
-      slides: "./assets/slides/24f-csci544-appliednlp-lec04-logistic-regression.pdf"
+      slides:
       readings: J&M, Chap 5
       readingslink: "https://web.stanford.edu/~jurafsky/slp3/5.pdf"
-      quiz: Quiz 1
+      # quiz: Quiz 1
 
 - week: 3
   days:
-    - date: Sep 10
-      theme: Word Embeddings
-      slides: "./assets/slides/24f-csci544-appliednlp-lec05-word-embeddings.pdf"
+    - date: Sep 8
+      theme: Logistic Regression (contd.) + Word Embeddings
+      slides:
       readings: J&M, Chap 6
       readingslink: https://web.stanford.edu/~jurafsky/slp3/6.pdf
       project: Group Formation Deadline
-    - date: Sep 12
+    - date: Sep 10
       theme: Word Embeddings (contd.)
-      slides: "./assets/slides/24f-csci544-appliednlp-lec06-word-embeddings-contd.pdf"
+      slides:
       readings: J&M, Chap 6
       readingslink: https://web.stanford.edu/~jurafsky/slp3/6.pdf
       additional: word2vec Explained
@@ -44,65 +42,65 @@
 
 - week: 4
   days:
-    - date: Sep 17
+    - date: Sep 15
       theme: Feedforward Neural Nets
-      slides: "./assets/slides/24f-csci544-appliednlp-lec07-ffnn.pdf"
+      slides:
       readings: J&M, Chap 7
       readingslink: https://web.stanford.edu/~jurafsky/slp3/7.pdf
       additional:
       additionallink:
-      quiz: Quiz 2
+      # quiz: Quiz 2
       project:
-    - date: Sep 19
+    - date: Sep 17
       theme: Backpropagation
-      slides: "./assets/slides/24f-csci544-appliednlp-lec08-ffnn-contd.pdf"
+      slides:
       readings: J&M, Chap 7
       readingslink: https://web.stanford.edu/~jurafsky/slp3/7.pdf
-      due: HW1 Due; HW2 Release
+      # due: HW1 Due; HW2 Release
 
 - week: 5
   days:
-    - date: Sep 24
+    - date: Sep 22
       theme: Recurrent Neural Networks
-      slides: "./assets/slides/24f-csci544-appliednlp-lec09-rnn.pdf"
+      slides:
       readings: J&M, Chap 8
       readingslink: https://web.stanford.edu/~jurafsky/slp3/8.pdf
       additional:
       additionallink:
-    - date: Sep 26
+    - date: Sep 24
       theme: Seq2Seq and Attention
-      slides: "./assets/slides/24f-csci544-appliednlp-lec10-seq2seq.pdf"
+      slides:
       readings: J&M, Chap 8
       readingslink: https://web.stanford.edu/~jurafsky/slp3/8.pdf
       project: Project Proposal Due
 
 - week: 6
   days:
-    - date: Oct 1
+    - date: Sep 29
       theme: Transformers - Building Blocks
-      slides: "./assets/slides/24f-csci544-appliednlp-lec11-transformers.pdf"
+      slides:
       readings: J&M, Chap 9
       readingslink: https://web.stanford.edu/~jurafsky/slp3/9.pdf
-    - date: Oct 3
+    - date: Oct 1
       theme: Transformers (contd.)
-      slides: "./assets/slides/24f-csci544-appliednlp-lec12-pretraining-transformers.pdf"
+      slides:
       readings: J&M, Chap 9
       readingslink: https://web.stanford.edu/~jurafsky/slp3/9.pdf
-      quiz: Quiz 3
+      # quiz: Quiz 3
       due: Mid-Semester Evaluation
 
 
 - week: 7
   days:
-    - date: Oct 8
+    - date: Oct 6
       theme: Guest Lecture - PyTorch for Transformers
-      slides: "https://colab.research.google.com/drive/15VYKmdqEkmfeOSkDXVuhN0dkyRCnHpcT?usp=sharing"
+      slides:
       readings:
       readingslink:
       additional:
       additionallink:
       due: HW2 Due; HW3 Release
-    - date: Oct 10
+    - date: Oct 8
       break: Fall Break
       slides:
       readings:
@@ -111,76 +109,76 @@
 
 - week: 8
   days:
+    - date: Oct 13
+      # exam: Midterm Exam
     - date: Oct 15
-      exam: Midterm Exam
-    - date: Oct 17
       theme: Pre-training and Finetuning Transformers
-      slides: "./assets/slides/24f-csci544-appliednlp-lec15-pretraining-finetuning.pdf"
+      # slides: "./assets/slides/24f-csci544-appliednlp-lec15-pretraining-finetuning.pdf"
       readings: J&M, Chaps 10, 11
       readingslink: https://web.stanford.edu/~jurafsky/slp3/10.pdf
       due:
 
 - week: 9
   days:
-    - date: Oct 22
+    - date: Oct 20
       theme: Tokenization and Generating from LMs
-      slides: "./assets/slides/24f-csci544-appliednlp-lec16-tokenization-generation.pdf"
+      # slides: "./assets/slides/24f-csci544-appliednlp-lec16-tokenization-generation.pdf"
       readings: J&M, Chaps 2.5, 13
       readingslink: https://web.stanford.edu/~jurafsky/slp3/13.pdf
-      due: HW3 Due; HW4 Released
-    - date: Oct 24
+      # due: HW3 Due; HW4 Released
+    - date: Oct 22
       theme: Language Generation
-      slides: "./assets/slides/24f-csci544-appliednlp-lec17-generation.pdf"
+      # slides: "./assets/slides/24f-csci544-appliednlp-lec17-generation.pdf"
       readings: J&M, Chaps 13
       readingslink: https://web.stanford.edu/~jurafsky/slp3/13.pdf
 
 - week: 10
   days:
-    - date: Oct 29
+    - date: Oct 27
       theme: Large Language Models - Pre-Training
       slides: "./assets/slides/24f-csci544-appliednlp-lec18-llms.pdf"
       readings: J&M, Chaps 10, 12
       readingslink: https://web.stanford.edu/~jurafsky/slp3/10.pdf
-      project: Project Status Report Due
-    - date: Oct 31
+      # project: Project Status Report Due
+    - date: Oct 29
       theme: Large Language Models - Post-Training
       readings: J&M, Chaps 12
       readingslink: https://web.stanford.edu/~jurafsky/slp3/12.pdf
-      slides: "./assets/slides/24f-csci544-appliednlp-lec19-post-training.pdf"
-      paper: + Paper Presentations I
+      # slides: "./assets/slides/24f-csci544-appliednlp-lec19-post-training.pdf"
+      # paper: + Paper Presentations I
 
 - week: 11
   days:
-    - date: Nov 5
-      paper: + Paper Presentations II
+    - date: Nov 3
+      # paper: + Paper Presentations II
       theme: LLMs - Preference Tuning + Harms
-      slides: "./assets/slides/24f-csci544-appliednlp-lec20-rlhf-harms.pdf"
+      # slides: "./assets/slides/24f-csci544-appliednlp-lec20-rlhf-harms.pdf"
       readings: J&M, Chaps 12
       readingslink: https://web.stanford.edu/~jurafsky/slp3/12.pdf
-    - date: Nov 7
-      paper: Paper Presentations III
+    - date: Nov 5
+      # paper: Paper Presentations III
       quiz: Quiz 4
 
 - week: 12
   days:
-    - date: Nov 12
-      paper: Paper Presentations IV
+    - date: Nov 10
+      # paper: Paper Presentations IV
       quiz: Quiz 5
-    - date: Nov 14
+    - date: Nov 12
       theme: Guest Lecture on Pretraining LLMs by Prof. Neiswanger
-      slides: "./assets/slides/24f-csci544-appliednlp-lec21-guest-lecture-pretraining-llms.pdf"
+      # slides: "./assets/slides/24f-csci544-appliednlp-lec21-guest-lecture-pretraining-llms.pdf"
       due: HW4 Due
 
 - week: 13
   days:
-    - date: Nov 19
+    - date: Nov 17
       project: Project Presentations I
       slides:
       readings:
       readingslink:
       additional:
       additionallink:
-    - date: Nov 21
+    - date: Nov 19
       project: Project Presentations II
       slides:
       readings:
@@ -189,27 +187,27 @@
 
 - week: 14
   days:
-    - date: Nov 26
+    - date: Nov 24
       project: Project Presentations III
-    - date: Nov 28
+    - date: Nov 26
       break: Thanksgiving
 
 
 - week: 15
   days:
-    - date: Dec 3
+    - date: Dec 1
       project: Project Presentations IV
-    - date: Dec 5
-      exam: Final Exam
+    - date: Dec 3
+      # exam: Final Exam
 
 - week: 16
   days:
-    - date: Dec 10
+    - date: Dec 8
       break: Study Week
-    - date: Dec 12
+    - date: Dec 10
       break: Study Week
 
 - week: 17
   days:
     - date: Dec 17
-      project: Project Final Report due by 6:30pm
+      # project: Project Final Report due by 6:30pm
