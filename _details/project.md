@@ -1,6 +1,6 @@
 ---
 title: Class Project
-nav_exclude: false
+nav_exclude: true
 include_nav_home: true
 toc: true
 ---

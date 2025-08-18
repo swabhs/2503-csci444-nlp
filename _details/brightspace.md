@@ -1,6 +1,6 @@
 ---
 title: Brightspace
-nav_exclude: false
+nav_exclude: true
 include_nav_home: true
 redirect_to: https://brightspace.usc.edu/d2l/lms/news/main.d2l?ou=114109
 ---

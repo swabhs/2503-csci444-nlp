@@ -82,6 +82,12 @@ Natural Language Processing (NLP) is an area of computing research and practice 
         {% if day.paper %}
           <span style="color:teal">{{day.paper}}</span>
         {% endif %}
+        {% if day.projectpresentations %}
+          <span style="color:blue">{{day.projectpresentations}}</span>
+        {% endif %}
+        {% if day.break %}
+            <span style="color:green">{{day.break}}</span>
+        {% endif %}
         </td>
         <td class="cal-content">
           {% if day.readingslink %}
@@ -104,9 +110,6 @@ Natural Language Processing (NLP) is an area of computing research and practice 
           {% if day.project %}
             <span style="color:blue">{{day.project}}; </span>
           {% endif %}
-          {% if day.break %}
-            <span style="color:green">{{day.break}}</span>
-          {% endif %}
           {% if day.quiz %}
             <span style="color:fuchsia">{{day.quiz}}; </span>
           {% endif %}
@@ -121,40 +124,35 @@ Natural Language Processing (NLP) is an area of computing research and practice 
 </table>
 
 
-Calendar and [prespecified syllabus](https://web-app.usc.edu/soc/syllabus/20243/30249.pdf) are subject to change. More details, e.g. reading materials and additional resources will be added as the semester continues. All work (except the project final report) is due on the specified date by **11:59 PM PT**{: .label .label-red }.
+This calendar is subject to change. More details, e.g. lecture slides will be added as the semester continues. All work (except the project final report) is due on the specified date by **11:59 PM PT**{: .label .label-red }.
 
 
 ## Assignments and Grading
 
 There will be three components to course grades:
 
-* **Homeworks (20%).**
-  * 5% X 4: There will be four coding homework assignments based on the topics of the class.
-* **Quizzes (10%).**
-  * 2% X 5: Multiple-Choice Questions and Short Answers. Missed quizzes will receive a zero grade, and there will be no make-up quizzes.
+* **Homeworks (30%).**
+  * 10% X 3: There will be three coding homework assignments based on the topics of the class.
+* **Quizzes (15%).**
+  * 3% X 5: Multiple-Choice Questions and Short Answers. Missed quizzes will receive a zero grade, and there will be no make-up quizzes.
 * **Class Projects (40%).**
   * Each student will do a group class project based on the topics covered in the class.  Students will propose their own project, do the research and build a proof-of-concept, create a video demonstration of the proof-of-concept, and present the project in their report.
-  * Proposal: 4%
-  * Status Reports: 8%
+  * Proposal: 5%
+  * Status Reports: 10%
   * Project Presentation: 10%
-  * Final Write-up: 18%
-* **Paper Presentations (5%).**
+  * Final Write-up: 15%
+* **Paper Presentations (10%).**
   * The project teams will present a scientific publication related to their project to the class.
-  * All members of the team are expected to identify the central points of the research, and present that research to the class, as well as answer questions from the instructor, TAs and fellow students.
-  * One member of team---randomly picked by the instructors a couple of hours before the presentation---will be the presenter, so please prepare accordingly!
-  * The presenter is responsible for the entire team’s grade, so please ensure both you and your teammates are prepared!
-  * The total time of each team's presentation is 5 minutes (3 min presentation + 2 min QA) - we will be very strict about this.
-  * If you are NOT presenting, you could participate in Q/A - bonus points will be awarded to folks who ask insightful questions (announce your name before you ask a question).
+  * All members of the team are expected to identify the central points of the research, and present that research to the class, as well as answer questions from the instructor, TAs and fellow students. <!-- * One member of team---randomly picked by the instructors a couple of hours before the presentation---will be the presenter, so please prepare accordingly! The presenter is responsible for the entire team’s grade, so please ensure both you and your teammates are prepared! The total time of each team's presentation is 5 minutes (3 min presentation + 2 min QA) - we will be very strict about this. If you are NOT presenting, you could participate in Q/A - bonus points will be awarded to folks who ask insightful questions (announce your name before you ask a question). -->
   * Each team will prepare 3 slides (via Google slides) to be shared with their assigned TAs by 11:59 PM the day before the presentation. Failure to share will cause a loss of grade.
   * Content of the slides:
     * Slide 1: Main Research Question in the paper,
     * Slide 2: Main Results Summarized,
     * Slide 3: How this influences your project.
-* **Exams (25%)**
-  * Midterm (10%): The midterm exam will contain a mixture of multiple choice and long form questions, covering about the first half of the material covered in the class.
-  * Final (15%): The final exam at the end of the semester covering all of the material covered in the class will contain a mixture of multiple choice and long form questions.
+* **Class Participation (5%)**
+  * Each student’s engagements in course discussions during class and during project discussions.
 
-Grading inquiries and questions about the grading of the homeworks and the quizzes can be asked (to the TAs) within two weeks from the grading date (the date the grades are released). Grades will be available within 2-2.5 weeks after submission.
+Grading inquiries and questions about the grading of the homeworks and the quizzes can be asked (to the TA) within one week from the grading date (the date the grades are released). Grades will be available within 2-2.5 weeks after submission.
 
 All written assignments related to the final project should use the standard [*ACL paper submission template](https://github.com/acl-org/acl-style-files).
 
@@ -166,15 +164,16 @@ Students are allowed a maximum of 6 late days total for all assignments (but NOT
 **Note:** Please familiarize yourself with the [academic policies](details/policies/#policies) and read the [note about student well-being](details/policies/#student-well-being).
 
 
-<!--
 ## Pre-Requisites
 
-Students are required to have taken [CSCI-270 Introduction to Algorithms and Theory of Computing]() (4.0 units) as well as one of ([CSCI-360 Introduction to AI](), [CSCI-467 Introduction to Machine Learning]() or equivalent experience). Fluency with python programming is recommended. Please email the instructor for special circumstances or specific clarifications. -->
+Students are required to have either: 1) taken CSCI-270 Introduction to Algorithms and Theory of Computing (4.0 units) as well as one of: CSCI-360 Introduction to AI or CSCI-467 Introduction to Machine Learning; or 2) obtain explicit instructor approval.
+
 
 
 ## Similar Classes
 
-- Undergraduate-level Special Topics: Language Models in NLP [Spring 2024](https://swabhs.com/sp24-csci499-lm4nlp/)
-  <!-- - See [previous class projects here](https://swabhs.com/fall23-csci499-lm4nlp/details/class-projects/). -->
-- Undergraduate-level Special Topics: Language Models in NLP [Fall 2023](https://swabhs.com/fall23-csci499-lm4nlp/)
-  <!-- - See [previous class projects here](https://swabhs.com/fall23-csci499-lm4nlp/details/class-projects/). -->
+- Graduate-level Applied NLP [Fall 2024 CSCI 544](https://swabhs.com/f24-csci544-appliednlp/)
+- Undergraduate-level Special Topics: Language Models in NLP [Spring 2024 CSCI 499](https://swabhs.com/sp24-csci499-lm4nlp/)
+  - See [previous class projects here](https://swabhs.com/sp24-csci499-lm4nlp/details/class-projects/).
+- Undergraduate-level Special Topics: Language Models in NLP [Fall 2023 CSCI 499](https://swabhs.com/fall23-csci499-lm4nlp/)
+  - See [previous class projects here](https://swabhs.com/fall23-csci499-lm4nlp/details/class-projects/).
