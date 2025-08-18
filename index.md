@@ -125,7 +125,7 @@ Natural Language Processing (NLP) is an area of computing research and practice 
 
 
 This calendar is subject to change. More details, e.g. lecture slides will be added as the semester continues. All work (except the project final report) is due on the specified date by **11:59 PM PT**{: .label .label-red }.
-
+See [the syllabus](https://usc.simplesyllabus.com/en-US/doc/gs84ydm4d) for more details.
 
 ## Assignments and Grading
 
