@@ -1,6 +1,6 @@
 ---
 layout: home
-title: USC CSCI 444 Fall 2024 - NLP
+title: USC CSCI 444 Fall 2025 - NLP
 nav_exclude: true
 toc: true
 seo:
