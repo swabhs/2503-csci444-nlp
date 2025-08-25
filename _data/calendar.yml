@@ -2,7 +2,7 @@
   days:
     - date: Aug 25
       theme: Course Overview and n-grams
-      slides:
+      slides: "./assets/slides/25f-csci444-nlp-lec01-introduction.pdf"
       readings: J&M, Chap 3
       readingslink: "https://web.stanford.edu/~jurafsky/slp3/3.pdf"
     - date: Aug 27
