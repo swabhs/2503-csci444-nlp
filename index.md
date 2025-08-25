@@ -137,18 +137,14 @@ There will be three components to course grades:
   * 3% X 5: Multiple-Choice Questions and Short Answers. Missed quizzes will receive a zero grade, and there will be no make-up quizzes.
 * **Class Projects (40%).**
   * Each student will do a group class project based on the topics covered in the class.  Students will propose their own project, do the research and build a proof-of-concept, create a video demonstration of the proof-of-concept, and present the project in their report.
+  * Pitch: 5%
   * Proposal: 5%
   * Status Reports: 10%
   * Project Presentation: 10%
-  * Final Write-up: 15%
+  * Final Write-up: 10%
 * **Paper Presentations (10%).**
   * The project teams will present a scientific publication related to their project to the class.
-  * All members of the team are expected to identify the central points of the research, and present that research to the class, as well as answer questions from the instructor, TAs and fellow students. <!-- * One member of team---randomly picked by the instructors a couple of hours before the presentation---will be the presenter, so please prepare accordingly! The presenter is responsible for the entire team’s grade, so please ensure both you and your teammates are prepared! The total time of each team's presentation is 5 minutes (3 min presentation + 2 min QA) - we will be very strict about this. If you are NOT presenting, you could participate in Q/A - bonus points will be awarded to folks who ask insightful questions (announce your name before you ask a question). -->
-  * Each team will prepare 3 slides (via Google slides) to be shared with their assigned TAs by 11:59 PM the day before the presentation. Failure to share will cause a loss of grade.
-  * Content of the slides:
-    * Slide 1: Main Research Question in the paper,
-    * Slide 2: Main Results Summarized,
-    * Slide 3: How this influences your project.
+  * All members of the team are expected to identify the central points of the research, and present that research to the class, as well as answer questions from the instructor, TAs and fellow students. <!-- * One member of team---randomly picked by the instructors a couple of hours before the presentation---will be the presenter, so please prepare accordingly! The presenter is responsible for the entire team’s grade, so please ensure both you and your teammates are prepared! The total time of each team's presentation is 5 minutes (3 min presentation + 2 min QA) - we will be very strict about this. If you are NOT presenting, you could participate in Q/A - bonus points will be awarded to folks who ask insightful questions (announce your name before you ask a question).  Each team will prepare 3 slides (via Google slides) to be shared with their assigned TAs by 11:59 PM the day before the presentation. Failure to share will cause a loss of grade.   * Content of the slides:     * Slide 1: Main Research Question in the paper,     * Slide 2: Main Results Summarized,     * Slide 3: How this influences your project. -->
 * **Class Participation (5%)**
   * Each student’s engagements in course discussions during class and during project discussions.
 

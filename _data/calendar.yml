@@ -1,31 +1,32 @@
 - week: 1
   days:
     - date: Aug 25
-      theme: Introduction and Course Overview
+      theme: Course Overview and n-grams
       slides:
     - date: Aug 27
-      theme: n-gram Models
+      theme: n-gram Models contd.
       slides:
       readings: J&M, Chap 3
       readingslink: "https://web.stanford.edu/~jurafsky/slp3/3.pdf"
-      due: HW1 Released
 
 
 - week: 2
   days:
     - date: Sep 1
       break: Labor Day
+      due: HW1 Released
     - date: Sep 3
-      projectpresentations: Project Pitches
+      theme: Logistic Regression
+      slides:
+      readings: J&M, Chap 5
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+
 
 
 - week: 3
   days:
     - date: Sep 8
-      theme: Logistic Regression
-      slides:
-      readings: J&M, Chap 5
-      readingslink: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+      projectpresentations: Project Pitches
       quiz: Quiz 1
     - date: Sep 10
       theme: Word Embeddings
@@ -34,7 +35,6 @@
       readingslink: https://web.stanford.edu/~jurafsky/slp3/6.pdf
       additional: word2vec Explained
       additionallink: https://arxiv.org/abs/1402.3722v1
-      project: Group Formation Deadline
 
 - week: 4
   days:
@@ -45,7 +45,7 @@
       readingslink: https://web.stanford.edu/~jurafsky/slp3/7.pdf
       additional:
       additionallink:
-      project:
+      project: Group Formation Deadline
     - date: Sep 17
       theme: Backpropagation
       slides:
@@ -89,7 +89,7 @@
 - week: 7
   days:
     - date: Oct 6
-      theme: Guest Lecture - PyTorch for Transformers
+      theme: PyTorch for Transformers
       slides:
       readings:
       readingslink:

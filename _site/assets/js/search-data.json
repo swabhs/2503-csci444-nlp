@@ -1,54 +1,54 @@
 {"0": {
-    "doc": "USC CSCI 444 Fall 2024 - NLP",
+    "doc": "USC CSCI 444 Fall 2025 - NLP",
     "title": "CSCI 444 Fall 2025: NLP",
     "content": "🍂 Fall 2025     ⏰ Mon / Wed 10:00 - 11:50a     📍 WPH 106 . Instructor:&nbsp;Swabha Swayamdipta . swabhas@usc.edu . Office Hours: Monday 1-2pm . ",
     "url": "http://localhost:4000/2503-csci444-nlp/#csci-444-fall-2025-nlp",
     "relUrl": "/#csci-444-fall-2025-nlp"
   },"1": {
-    "doc": "USC CSCI 444 Fall 2024 - NLP",
+    "doc": "USC CSCI 444 Fall 2025 - NLP",
     "title": "Announcements",
     "content": " ",
     "url": "http://localhost:4000/2503-csci444-nlp/#announcements",
     "relUrl": "/#announcements"
   },"2": {
-    "doc": "USC CSCI 444 Fall 2024 - NLP",
+    "doc": "USC CSCI 444 Fall 2025 - NLP",
     "title": "Summary",
     "content": "Natural Language Processing (NLP) is an area of computing research and practice that aims to enable machines to reason over human text and speech. High profile technologies like ChatGPT brought NLP to the forefront of public discussion both inside and outside academia. But what underpins such technologies? This course will explore how natural language can serve as an interaction medium between users and machines with a focus on the history and development of language models (LMs). Students will become familiar with concepts and methods in NLP like distributional semantics, and see how those concepts feed into the architectural design of modern LMs trained using deep learning, and will get hands-on experience with building and evaluating small-scale LMs. The class will also explore details and variants of the real-world consequences of deploying large-scale LMs and NLP technologies more generally, such as the ethics and harms associated with them. ",
     "url": "http://localhost:4000/2503-csci444-nlp/#summary",
     "relUrl": "/#summary"
   },"3": {
-    "doc": "USC CSCI 444 Fall 2024 - NLP",
+    "doc": "USC CSCI 444 Fall 2025 - NLP",
     "title": "Calendar + Syllabus",
-    "content": "| Week | Date | Class Topics | Readings | Work Due | . | 1 | Aug 25 | Introduction and Course Overview | | | . | Aug 27 | n-gram Models | J&amp;M, Chap 3 | HW1 Released | . | 2 | Sep 1 | Labor Day | | | . | Sep 3 | Project Pitches | | | . | 3 | Sep 8 | Logistic Regression | J&amp;M, Chap 5 | Quiz 1; | . | Sep 10 | Word Embeddings | J&amp;M, Chap 6 Additional: word2vec Explained | Group Formation Deadline; | . | 4 | Sep 15 | Feedforward Neural Nets | J&amp;M, Chap 7 | | . | Sep 17 | Backpropagation | J&amp;M, Chap 7 | HW1 Due; HW2 Release | . | 5 | Sep 22 | Recurrent Neural Networks | J&amp;M, Chap 8 | Quiz 2; | . | Sep 24 | Seq2Seq and Attention | J&amp;M, Chap 8 | Project Proposal Due; | . | 6 | Sep 29 | Transformers - Building Blocks | J&amp;M, Chap 9 | | . | Oct 1 | Transformers (contd.) | J&amp;M, Chap 9 | Quiz 3; Mid-Semester Evaluation | . | 7 | Oct 6 | Guest Lecture - PyTorch for Transformers | | HW2 Due; HW3 Release | . | Oct 8 | Fall Break | | | . | 8 | Oct 13 | Pre-training and Finetuning Transformers | J&amp;M, Chaps 10, 11 | Quiz 4; | . | Oct 15 | Tokenization and Generating from LMs | J&amp;M, Chaps 2.5, 13 | | . | 9 | Oct 20 | Language Generation | J&amp;M, Chaps 13 | HW3 Due | . | Oct 22 | Flipped Classroom - Project Discussions | | | . | 10 | Oct 27 | Large Language Models - Pre-Training | J&amp;M, Chaps 10, 12 | | . | Oct 29 | Large Language Models - Post-Training | J&amp;M, Chaps 12 | Project Status Report Due; | . | 11 | Nov 3 | LLMs - Preference Tuning | J&amp;M, Chaps 12 | Quiz 5; | . | Nov 5 | Paper Presentations I | | | . | 12 | Nov 10 | Paper Presentations II | | | . | Nov 12 | Paper Presentations III | | | . | 13 | Nov 17 | LLMs - Harms and Ethics | | | . | Nov 19 | Project Presentations I | | | . | 14 | Nov 24 | Project Presentations II | | | . | Nov 26 | Thanksgiving | | | . | 15 | Dec 1 | Project Presentations III | | | . | Dec 3 | Outro | | | . | 16 | Dec 8 | Study Week | | | . | Dec 10 | Study Week | | | . | 17 | Dec 15 | | | Project Final Report due by 10:00am; | . This calendar is subject to change. More details, e.g. lecture slides will be added as the semester continues. All work (except the project final report) is due on the specified date by 11:59 PM PT. ",
+    "content": "| Week | Date | Class Topics | Readings | Work Due | . | 1 | Aug 25 | Course Overview and n-grams | | | . | Aug 27 | n-gram Models contd. | J&amp;M, Chap 3 | | . | 2 | Sep 1 | Labor Day | | HW1 Released | . | Sep 3 | Logistic Regression | J&amp;M, Chap 5 | | . | 3 | Sep 8 | Project Pitches | | Quiz 1; | . | Sep 10 | Word Embeddings | J&amp;M, Chap 6 Additional: word2vec Explained | | . | 4 | Sep 15 | Feedforward Neural Nets | J&amp;M, Chap 7 | Group Formation Deadline; | . | Sep 17 | Backpropagation | J&amp;M, Chap 7 | HW1 Due; HW2 Release | . | 5 | Sep 22 | Recurrent Neural Networks | J&amp;M, Chap 8 | Quiz 2; | . | Sep 24 | Seq2Seq and Attention | J&amp;M, Chap 8 | Project Proposal Due; | . | 6 | Sep 29 | Transformers - Building Blocks | J&amp;M, Chap 9 | | . | Oct 1 | Transformers (contd.) | J&amp;M, Chap 9 | Quiz 3; Mid-Semester Evaluation | . | 7 | Oct 6 | PyTorch for Transformers | | HW2 Due; HW3 Release | . | Oct 8 | Fall Break | | | . | 8 | Oct 13 | Pre-training and Finetuning Transformers | J&amp;M, Chaps 10, 11 | Quiz 4; | . | Oct 15 | Tokenization and Generating from LMs | J&amp;M, Chaps 2.5, 13 | | . | 9 | Oct 20 | Language Generation | J&amp;M, Chaps 13 | HW3 Due | . | Oct 22 | Flipped Classroom - Project Discussions | | | . | 10 | Oct 27 | Large Language Models - Pre-Training | J&amp;M, Chaps 10, 12 | | . | Oct 29 | Large Language Models - Post-Training | J&amp;M, Chaps 12 | Project Status Report Due; | . | 11 | Nov 3 | LLMs - Preference Tuning | J&amp;M, Chaps 12 | Quiz 5; | . | Nov 5 | Paper Presentations I | | | . | 12 | Nov 10 | Paper Presentations II | | | . | Nov 12 | Paper Presentations III | | | . | 13 | Nov 17 | LLMs - Harms and Ethics | | | . | Nov 19 | Project Presentations I | | | . | 14 | Nov 24 | Project Presentations II | | | . | Nov 26 | Thanksgiving | | | . | 15 | Dec 1 | Project Presentations III | | | . | Dec 3 | Outro | | | . | 16 | Dec 8 | Study Week | | | . | Dec 10 | Study Week | | | . | 17 | Dec 15 | | | Project Final Report due by 10:00am; | . This calendar is subject to change. More details, e.g. lecture slides will be added as the semester continues. All work (except the project final report) is due on the specified date by 11:59 PM PT. See the syllabus for more details. ",
     "url": "http://localhost:4000/2503-csci444-nlp/#calendar--syllabus",
     "relUrl": "/#calendar--syllabus"
   },"4": {
-    "doc": "USC CSCI 444 Fall 2024 - NLP",
+    "doc": "USC CSCI 444 Fall 2025 - NLP",
     "title": "Assignments and Grading",
-    "content": "There will be three components to course grades: . | Homeworks (30%). | 10% X 3: There will be three coding homework assignments based on the topics of the class. | . | Quizzes (15%). | 3% X 5: Multiple-Choice Questions and Short Answers. Missed quizzes will receive a zero grade, and there will be no make-up quizzes. | . | Class Projects (40%). | Each student will do a group class project based on the topics covered in the class. Students will propose their own project, do the research and build a proof-of-concept, create a video demonstration of the proof-of-concept, and present the project in their report. | Proposal: 5% | Status Reports: 10% | Project Presentation: 10% | Final Write-up: 15% | . | Paper Presentations (10%). | The project teams will present a scientific publication related to their project to the class. | All members of the team are expected to identify the central points of the research, and present that research to the class, as well as answer questions from the instructor, TAs and fellow students. | Each team will prepare 3 slides (via Google slides) to be shared with their assigned TAs by 11:59 PM the day before the presentation. Failure to share will cause a loss of grade. | Content of the slides: . | Slide 1: Main Research Question in the paper, | Slide 2: Main Results Summarized, | Slide 3: How this influences your project. | . | . | Class Participation (5%) . | Each student’s engagements in course discussions during class and during project discussions. | . | . Grading inquiries and questions about the grading of the homeworks and the quizzes can be asked (to the TA) within one week from the grading date (the date the grades are released). Grades will be available within 2-2.5 weeks after submission. All written assignments related to the final project should use the standard *ACL paper submission template. ",
+    "content": "There will be three components to course grades: . | Homeworks (30%). | 10% X 3: There will be three coding homework assignments based on the topics of the class. | . | Quizzes (15%). | 3% X 5: Multiple-Choice Questions and Short Answers. Missed quizzes will receive a zero grade, and there will be no make-up quizzes. | . | Class Projects (40%). | Each student will do a group class project based on the topics covered in the class. Students will propose their own project, do the research and build a proof-of-concept, create a video demonstration of the proof-of-concept, and present the project in their report. | Pitch: 5% | Proposal: 5% | Status Reports: 10% | Project Presentation: 10% | Final Write-up: 10% | . | Paper Presentations (10%). | The project teams will present a scientific publication related to their project to the class. | All members of the team are expected to identify the central points of the research, and present that research to the class, as well as answer questions from the instructor, TAs and fellow students. | . | Class Participation (5%) . | Each student’s engagements in course discussions during class and during project discussions. | . | . Grading inquiries and questions about the grading of the homeworks and the quizzes can be asked (to the TA) within one week from the grading date (the date the grades are released). Grades will be available within 2-2.5 weeks after submission. All written assignments related to the final project should use the standard *ACL paper submission template. ",
     "url": "http://localhost:4000/2503-csci444-nlp/#assignments-and-grading",
     "relUrl": "/#assignments-and-grading"
   },"5": {
-    "doc": "USC CSCI 444 Fall 2024 - NLP",
+    "doc": "USC CSCI 444 Fall 2025 - NLP",
     "title": "Late Days",
     "content": "Students are allowed a maximum of 6 late days total for all assignments (but NOT the quiz sheets). You may use up to 3 late days per assignment. Using one late day for a project assignment involves each of the teammates using a late day each. Partial late days are not permitted. For every extra late day beyond the allowed late days, the student / team will lose 20% of the grade for the assignment. Note: Please familiarize yourself with the academic policies and read the note about student well-being. ",
     "url": "http://localhost:4000/2503-csci444-nlp/#late-days",
     "relUrl": "/#late-days"
   },"6": {
-    "doc": "USC CSCI 444 Fall 2024 - NLP",
+    "doc": "USC CSCI 444 Fall 2025 - NLP",
     "title": "Pre-Requisites",
     "content": "Students are required to have either: 1) taken CSCI-270 Introduction to Algorithms and Theory of Computing (4.0 units) as well as one of: CSCI-360 Introduction to AI or CSCI-467 Introduction to Machine Learning; or 2) obtain explicit instructor approval. ",
     "url": "http://localhost:4000/2503-csci444-nlp/#pre-requisites",
     "relUrl": "/#pre-requisites"
   },"7": {
-    "doc": "USC CSCI 444 Fall 2024 - NLP",
+    "doc": "USC CSCI 444 Fall 2025 - NLP",
     "title": "Similar Classes",
     "content": ". | Graduate-level Applied NLP Fall 2024 CSCI 544 | Undergraduate-level Special Topics: Language Models in NLP Spring 2024 CSCI 499 . | See previous class projects here. | . | Undergraduate-level Special Topics: Language Models in NLP Fall 2023 CSCI 499 . | See previous class projects here. | . | . ",
     "url": "http://localhost:4000/2503-csci444-nlp/#similar-classes",
     "relUrl": "/#similar-classes"
   },"8": {
-    "doc": "USC CSCI 444 Fall 2024 - NLP",
-    "title": "USC CSCI 444 Fall 2024 - NLP",
+    "doc": "USC CSCI 444 Fall 2025 - NLP",
+    "title": "USC CSCI 444 Fall 2025 - NLP",
     "content": " ",
     "url": "http://localhost:4000/2503-csci444-nlp/",
     "relUrl": "/"
