@@ -155,20 +155,25 @@ All written assignments related to the final project should use the standard [*A
 
 ## Late Days
 
-Students are allowed a maximum of 6 late days total for all assignments (but NOT the quiz sheets). You may use up to 3 late days per assignment. Using one late day for a project assignment involves each of the teammates using a late day each. Partial late days are not permitted. For every extra late day beyond the allowed late days, the student / team will lose 20% of the grade for the assignment.
+Students are allowed a maximum of 6 late days total for all assignments (but NOT the quizzes or presentations). You may use up to 3 late days per assignment. Using one late day for a project assignment involves each of the teammates using a late day each. Partial late days are not permitted. For every extra late day beyond the allowed late days, the student / team will lose 20% of the grade for the assignment.
 
 **Note:** Please familiarize yourself with the [academic policies](details/policies/#policies) and read the [note about student well-being](details/policies/#student-well-being).
 
 
 ## Pre-Requisites
 
-Students are required to have either: 1) taken CSCI-270 Introduction to Algorithms and Theory of Computing (4.0 units) as well as one of: CSCI-360 Introduction to AI or CSCI-467 Introduction to Machine Learning; or 2) obtain explicit instructor approval.
-
+Students are required to have taken
+* CSCI 170 and
+* 1 from (CSCI 104 or CSCI 114) and
+* 1 from (MATH 225 or EE 141) and
+* 1 from (EE 364 or MATH 407 or BUAD 310 or ISE 225)
+Recommended Preparation: Fluency with Python programming on the level of ITP 216 or TAC 216
 
 
 ## Similar Classes
 
 - Graduate-level Applied NLP [Fall 2024 CSCI 544](https://swabhs.com/f24-csci544-appliednlp/)
+  - See [highlighted class projects here](https://swabhs.com/f24-csci544-appliednlp/details/highlighted-projects).
 - Undergraduate-level Special Topics: Language Models in NLP [Spring 2024 CSCI 499](https://swabhs.com/sp24-csci499-lm4nlp/)
   - See [previous class projects here](https://swabhs.com/sp24-csci499-lm4nlp/details/class-projects/).
 - Undergraduate-level Special Topics: Language Models in NLP [Fall 2023 CSCI 499](https://swabhs.com/fall23-csci499-lm4nlp/)
