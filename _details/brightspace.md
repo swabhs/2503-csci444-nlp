@@ -1,11 +1,11 @@
 ---
 title: Brightspace
-nav_exclude: true
+nav_exclude: false
 include_nav_home: true
-redirect_to: https://brightspace.usc.edu/d2l/lms/news/main.d2l?ou=114109
+redirect_to: https://brightspace.usc.edu/d2l/home/219332
 ---
 
-## [Brightspace](https://brightspace.usc.edu/d2l/lms/news/main.d2l?ou=114109)
+## [Brightspace](https://brightspace.usc.edu/d2l/home/219332)
 
 - Homework-related announcements and majority of the student Q/A with the instructor / TAs may be done through Brightspace.
 - We will also share a link for anonymous feedback for the course.

@@ -135,9 +135,9 @@ There will be three components to course grades:
   * 10% X 3: There will be three coding homework assignments based on the topics of the class.
 * **Quizzes (15%).**
   * 3% X 5: Multiple-Choice Questions and Short Answers. Missed quizzes will receive a zero grade, and there will be no make-up quizzes.
-* **Class Projects (40%).**
+* **[Class Projects](details/project/) (40%).**
   * Each student will do a group class project based on the topics covered in the class.  Students will propose their own project, do the research and build a proof-of-concept, create a video demonstration of the proof-of-concept, and present the project in their report.
-  * Pitch: 5%
+  * [Pitch](details/project/#project-pitch-5): 5%
   * Proposal: 5%
   * Status Reports: 10%
   * Project Presentation: 10%
@@ -170,11 +170,11 @@ Students are required to have taken
 Recommended Preparation: Fluency with Python programming on the level of ITP 216 or TAC 216
 
 
-## Similar Classes
+## Similar Classes 
 
 - Graduate-level Applied NLP [Fall 2024 CSCI 544](https://swabhs.com/f24-csci544-appliednlp/)
-  - See [highlighted class projects here](https://swabhs.com/f24-csci544-appliednlp/details/highlighted-projects).
+  - See [highlighted class projects here](https://swabhs.com/f24-csci544-appliednlp/#highlighted-544-projects).
 - Undergraduate-level Special Topics: Language Models in NLP [Spring 2024 CSCI 499](https://swabhs.com/sp24-csci499-lm4nlp/)
-  - See [previous class projects here](https://swabhs.com/sp24-csci499-lm4nlp/details/class-projects/).
+  - See [previous class projects here](https://swabhs.com/f24-csci544-appliednlp/details/project/#example-projects).
 - Undergraduate-level Special Topics: Language Models in NLP [Fall 2023 CSCI 499](https://swabhs.com/fall23-csci499-lm4nlp/)
   - See [previous class projects here](https://swabhs.com/fall23-csci499-lm4nlp/details/class-projects/).
