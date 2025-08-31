@@ -15,7 +15,7 @@ Every student pitches a 5-minute project idea for which all the other students v
 
 Projects are to be done in teams of 2. Based on enrollment, we will make some exceptions if people are left behind.
 
-### Project proposal (5%).
+### Project proposal (10%).
 
 Student teams should submit a ~1-page proposal (using the [*CL paper submission template](https://github.com/acl-org/acl-style-files)) for their project by Week 5. The proposal should:
   - state and motivate the problem by providing a problem or task definition (preferably with example inputs and expected outputs),
@@ -33,13 +33,13 @@ TBD
 
 
 
-### Project final presentation (10%).
+### Project final presentation (15%).
 
 TBD
 
 
 
 
-### Project final report (10%).
+### Project final report (15%).
 
 TBD

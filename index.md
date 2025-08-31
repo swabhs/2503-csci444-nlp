@@ -131,17 +131,17 @@ See [the syllabus](https://usc.simplesyllabus.com/en-US/doc/gs84ydm4d) for more 
 
 There will be three components to course grades:
 
-* **Homeworks (30%).**
-  * 10% X 3: There will be three coding homework assignments based on the topics of the class.
+* **Homeworks (15%).**
+  * 5% X 3: There will be three coding homework assignments based on the topics of the class.
 * **Quizzes (15%).**
   * 3% X 5: Multiple-Choice Questions and Short Answers. Missed quizzes will receive a zero grade, and there will be no make-up quizzes.
-* **[Class Projects](details/project/) (40%).**
+* **[Class Projects](details/project/) (55%).**
   * Each student will do a group class project based on the topics covered in the class.  Students will propose their own project, do the research and build a proof-of-concept, create a video demonstration of the proof-of-concept, and present the project in their report.
   * [Pitch](details/project/#project-pitch-5): 5%
-  * Proposal: 5%
+  * Proposal: 10%
   * Status Reports: 10%
-  * Project Presentation: 10%
-  * Final Write-up: 10%
+  * Project Presentation: 15%
+  * Final Write-up: 15%
 * **Paper Presentations (10%).**
   * The project teams will present a scientific publication related to their project to the class.
   * All members of the team are expected to identify the central points of the research, and present that research to the class, as well as answer questions from the instructor, TAs and fellow students. <!-- * One member of team---randomly picked by the instructors a couple of hours before the presentation---will be the presenter, so please prepare accordingly! The presenter is responsible for the entire team’s grade, so please ensure both you and your teammates are prepared! The total time of each team's presentation is 5 minutes (3 min presentation + 2 min QA) - we will be very strict about this. If you are NOT presenting, you could participate in Q/A - bonus points will be awarded to folks who ask insightful questions (announce your name before you ask a question).  Each team will prepare 3 slides (via Google slides) to be shared with their assigned TAs by 11:59 PM the day before the presentation. Failure to share will cause a loss of grade.   * Content of the slides:     * Slide 1: Main Research Question in the paper,     * Slide 2: Main Results Summarized,     * Slide 3: How this influences your project. -->
@@ -170,7 +170,7 @@ Students are required to have taken
 Recommended Preparation: Fluency with Python programming on the level of ITP 216 or TAC 216
 
 
-## Similar Classes 
+## Similar Classes
 
 - Graduate-level Applied NLP [Fall 2024 CSCI 544](https://swabhs.com/f24-csci544-appliednlp/)
   - See [highlighted class projects here](https://swabhs.com/f24-csci544-appliednlp/#highlighted-544-projects).
