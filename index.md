@@ -40,7 +40,7 @@ seo:
 
 ## Announcements
 
-<!-- See [Brightspace](https://brightspace.usc.edu/d2l/lms/news/main.d2l?ou=114109). -->
+See [Brightspace](https://brightspace.usc.edu/d2l/home/219332).
 
 <!-- {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
@@ -49,7 +49,7 @@ seo:
 
 ## Summary
 
-Natural Language Processing (NLP) is an area of computing research and practice that aims to enable machines to reason over human text and speech. High profile technologies like ChatGPT brought NLP to the forefront of public discussion both inside and outside academia. But what underpins such technologies? This course will explore how natural language can serve as an interaction medium between users and machines with a focus on the history and development of language models (LMs). Students will become familiar with concepts and methods in NLP like distributional semantics, and see how those concepts feed into the architectural design of modern LMs trained using deep learning, and will get hands-on experience with building and evaluating small-scale LMs. The class will also explore details and variants of the real-world consequences of deploying large-scale LMs and NLP technologies more generally, such as the ethics and harms associated with them.
+This class is all about language models: the fundamentals, spanning from simple architectures to modern Transformer-based neural architectures underlying large language models.
 
 
 ## Calendar + Syllabus
@@ -148,7 +148,7 @@ There will be three components to course grades:
 * **Class Participation (5%)**
   * Each student’s engagements in course discussions during class and during project discussions.
 
-Grading inquiries and questions about the grading of the homeworks and the quizzes can be asked (to the TA) within one week from the grading date (the date the grades are released). Grades will be available within 2-2.5 weeks after submission.
+Grading inquiries and questions about the grading of the homeworks and the quizzes can be asked (to the instructor) within one week from the grading date (the date the grades are released). Grades will be available within 2-2.5 weeks after submission.
 
 All written assignments related to the final project should use the standard [*ACL paper submission template](https://github.com/acl-org/acl-style-files).
 
