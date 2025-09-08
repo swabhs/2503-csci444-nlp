@@ -20,8 +20,8 @@
     - date: Sep 3
       theme: Logistic Regression
       slides: "./assets/slides/25f-csci444-nlp-lec03-logistic-regression.pdf"
-      readings: J&M, Chap 5
-      readingslink: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+      readings: J&M, Chap 4
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/4.pdf
 
 
 
@@ -34,7 +34,7 @@
       theme: Word Embeddings
       slides:
       readings: J&M, Chap 6
-      readingslink: https://web.stanford.edu/~jurafsky/slp3/6.pdf
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/5.pdf
       additional: word2vec Explained
       additionallink: https://arxiv.org/abs/1402.3722v1
 
