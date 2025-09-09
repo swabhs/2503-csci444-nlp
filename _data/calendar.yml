@@ -91,7 +91,7 @@
 - week: 7
   days:
     - date: Oct 6
-      theme: PyTorch for Transformers
+      break: Fall Break
       slides:
       readings:
       readingslink:
@@ -123,23 +123,23 @@
 - week: 9
   days:
     - date: Oct 20
-      theme: Language Generation
+      projectpresentations: Flipped Classroom - Project Discussions
       # slides: "./assets/slides/24f-csci544-appliednlp-lec17-generation.pdf"
-      readings: J&M, Chaps 13
-      readingslink: https://web.stanford.edu/~jurafsky/slp3/13.pdf
+      # readings: J&M, Chaps 13
+      # readingslink: https://web.stanford.edu/~jurafsky/slp3/13.pdf
       due: HW3 Due
     - date: Oct 22
-      projectpresentations: Flipped Classroom - Project Discussions
+      theme: PyTorch for Transformers
 
 - week: 10
   days:
     - date: Oct 27
-      theme: Large Language Models - Pre-Training
+      theme: Pre-Training
       # slides: "./assets/slides/24f-csci544-appliednlp-lec18-llms.pdf"
       readings: J&M, Chaps 10, 12
       readingslink: https://web.stanford.edu/~jurafsky/slp3/10.pdf
     - date: Oct 29
-      theme: Large Language Models - Post-Training
+      theme: Post-Training
       readings: J&M, Chaps 12
       readingslink: https://web.stanford.edu/~jurafsky/slp3/12.pdf
       # slides: "./assets/slides/24f-csci544-appliednlp-lec19-post-training.pdf"
@@ -148,20 +148,20 @@
 - week: 11
   days:
     - date: Nov 3
-      theme: LLMs - Preference Tuning
+      theme: Preference Tuning
       # slides: "./assets/slides/24f-csci544-appliednlp-lec20-rlhf-harms.pdf"
       readings: J&M, Chaps 12
       readingslink: https://web.stanford.edu/~jurafsky/slp3/12.pdf
       quiz: Quiz 5
     - date: Nov 5
-      paper: Paper Presentations I
+      theme: Large Language Models contd.
 
 - week: 12
   days:
     - date: Nov 10
-      paper: Paper Presentations II
+      paper: Paper Presentations I
     - date: Nov 12
-      paper: Paper Presentations III
+      paper: Paper Presentations II
 
 - week: 13
   days:
@@ -169,7 +169,7 @@
       theme: LLMs - Harms and Ethics
       # slides: "./assets/slides/24f-csci544-appliednlp-lec21-guest-lecture-pretraining-llms.pdf"
     - date: Nov 19
-      projectpresentations: Project Presentations I
+      theme: Advanced Topics
       slides:
       readings:
       readingslink:
@@ -178,7 +178,7 @@
 - week: 14
   days:
     - date: Nov 24
-      projectpresentations: Project Presentations II
+      theme: Outro
     - date: Nov 26
       break: Thanksgiving
 
@@ -186,14 +186,9 @@
 - week: 15
   days:
     - date: Dec 1
-      projectpresentations: Project Presentations III
+      projectpresentations: Project Presentations I
     - date: Dec 3
-      theme: Outro
-      slides:
-      readings:
-      readingslink:
-      additional:
-      additionallink:
+      projectpresentations: Project Presentations II
 
 - week: 16
   days:
