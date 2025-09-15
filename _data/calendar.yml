@@ -23,8 +23,6 @@
       readings: J&M, Chap 4
       readingslink: https://web.stanford.edu/~jurafsky/slp3/4.pdf
 
-
-
 - week: 3
   days:
     - date: Sep 8
@@ -35,18 +33,17 @@
       slides: "./assets/slides/25f-csci444-nlp-lec04-word-embeddings.pdf"
       readings: J&M, Chap 5
       readingslink: https://web.stanford.edu/~jurafsky/slp3/5.pdf
-      additional: word2vec Explained
-      additionallink: https://arxiv.org/abs/1402.3722v1
+
 
 - week: 4
   days:
     - date: Sep 15
-      theme: Word Embeddings contd.
-      slides:
-      readings: J&M, Chap 6
-      readingslink: https://web.stanford.edu/~jurafsky/slp3/6.pdf
-      additional:
-      additionallink:
+      theme: word2vec
+      slides: "./assets/slides/25f-csci444-nlp-lec05-word2vec.pdf"
+      readings: J&M, Chap 5
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+      additional: word2vec Explained
+      additionallink: https://arxiv.org/abs/1402.3722v1
       project: Group Formation Deadline
     - date: Sep 17
       theme: Feedforward Nets and Backpropagation
@@ -151,7 +148,9 @@
       readingslink: https://web.stanford.edu/~jurafsky/slp3/12.pdf
       quiz: Quiz 5
     - date: Nov 5
-      theme: Large Language Models contd.
+      theme: Evaluating Language Models
+      readings:
+      readingslink:
 
 - week: 12
   days:
@@ -163,7 +162,7 @@
 - week: 13
   days:
     - date: Nov 17
-      theme: LLMs - Harms and Ethics
+      theme: Responsible Language Modeling
       # slides: "./assets/slides/24f-csci544-appliednlp-lec21-guest-lecture-pretraining-llms.pdf"
     - date: Nov 19
       theme: Advanced Topics
