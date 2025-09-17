@@ -46,19 +46,19 @@
       additionallink: https://arxiv.org/abs/1402.3722v1
       project: Group Formation Deadline
     - date: Sep 17
-      theme: Feedforward Nets and Backpropagation
-      slides:
-      readings: J&M, Chap 7
+      theme: Feedforward Nets
+      slides: "./assets/slides/25f-csci444-nlp-lec06-ffnn.pdf"
+      readings: J&M, Chap 6
       readingslink: https://web.stanford.edu/~jurafsky/slp3/7.pdf
       due: HW1 Due; HW2 Release
 
 - week: 5
   days:
     - date: Sep 22
-      theme: Recurrent Neural Networks
+      theme: Backpropagation and Recurrent Neural Networks
       slides:
-      readings: J&M, Chap 8
-      readingslink: https://web.stanford.edu/~jurafsky/slp3/8.pdf
+      readings: J&M, Chap 6, 13
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/13.pdf
       additional:
       additionallink:
       quiz: Quiz 2
