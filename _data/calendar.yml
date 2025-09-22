@@ -56,28 +56,28 @@
   days:
     - date: Sep 22
       theme: Backpropagation and Recurrent Neural Networks
-      slides:
+      slides: "./assets/slides/25f-csci444-nlp-lec07-backprop.pdf"
       readings: J&M, Chap 6, 13
-      readingslink: https://web.stanford.edu/~jurafsky/slp3/13.pdf
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/6.pdf
       additional:
       additionallink:
       due: HW2 Released
     - date: Sep 24
-      theme: Seq2Seq and Attention
+      theme: Recurrent Neural Nets
       slides:
-      readings: J&M, Chap 8
-      readingslink: https://web.stanford.edu/~jurafsky/slp3/8.pdf
+      readings: J&M, Chap 13
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/13.pdf
       project: Project Proposal Due
 
 - week: 6
   days:
     - date: Sep 29
-      theme: Transformers - Building Blocks
+      theme: Seq2Seq and Attention
       slides:
-      readings: J&M, Chap 9
-      readingslink: https://web.stanford.edu/~jurafsky/slp3/9.pdf
+      readings: J&M, Chap 8
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/8.pdf
     - date: Oct 1
-      theme: Transformers (contd.)
+      theme: Transformers - Building Blocks
       slides:
       readings: J&M, Chap 9
       readingslink: https://web.stanford.edu/~jurafsky/slp3/9.pdf
