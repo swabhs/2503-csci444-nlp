@@ -64,7 +64,7 @@
       due: HW2 Released
     - date: Sep 24
       theme: Recurrent Neural Nets
-      slides:
+      slides: "./assets/slides/25f-csci444-nlp-lec08-rnns.pdf"
       readings: J&M, Chap 13
       readingslink: https://web.stanford.edu/~jurafsky/slp3/13.pdf
       project: Project Proposal Due
