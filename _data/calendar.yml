@@ -73,14 +73,14 @@
   days:
     - date: Sep 29
       theme: Seq2Seq and Attention
-      slides:
+      slides: "./assets/slides/25f-csci444-nlp-lec09-seq2seq.pdf"
       readings: J&M, Chap 8
       readingslink: https://web.stanford.edu/~jurafsky/slp3/8.pdf
     - date: Oct 1
       theme: Transformers - Building Blocks
       slides:
-      readings: J&M, Chap 9
-      readingslink: https://web.stanford.edu/~jurafsky/slp3/9.pdf
+      readings: J&M, Chap 8
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/8.pdf
       quiz: Quiz 2
       due: Mid-Semester Evaluation
 
