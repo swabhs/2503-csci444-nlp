@@ -78,7 +78,7 @@
       readingslink: https://web.stanford.edu/~jurafsky/slp3/8.pdf
     - date: Oct 1
       theme: Transformers - Building Blocks
-      slides:
+      slides: "./assets/slides/25f-csci444-nlp-lec10-transformers.pdf"
       readings: J&M, Chap 8
       readingslink: https://web.stanford.edu/~jurafsky/slp3/8.pdf
       quiz: Quiz 2
