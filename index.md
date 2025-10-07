@@ -90,17 +90,10 @@ This class is all about language models: the fundamentals, spanning from simple 
         {% endif %}
         </td>
         <td class="cal-content">
-          {% if day.readingslink %}
-            <a href="{{day.readingslink}}">{{day.readings}}</a>
-          {% else if day.readings %}
-            {{day.readings}}
-          {% endif %}
-          {% if day.additional %}
-            {% if day.additionallink %}
-              <a href="{{day.additionallink}}"><b>Additional:</b> {{day.additional}}</a>
-            {% else %}
-              <b>Additional:</b> {{day.additional}}
-            {% endif %}
+          {% if day.readings %}
+            {% for reading in day.readings %}
+              <a href="{{reading.rlink}}">{{reading.rname}}; </a>
+            {% endfor %}
           {% endif %}
         </td>
         <td class="cal-content">
