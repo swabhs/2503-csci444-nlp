@@ -108,14 +108,12 @@
   days:
     - date: Oct 13
       theme: Transformer Language Models
-      # slides: "./assets/slides/24f-csci544-appliednlp-lec15-pretraining-finetuning.pdf"
+      slides: "./assets/slides/25f-csci444-nlp-lec11-transformer-LMs.pdf"
       readings:
         - rname: J&M Chap 8
           rlink: https://web.stanford.edu/~jurafsky/slp3/8.pdf
         - rname: J&M Chap 9
           rlink: https://web.stanford.edu/~jurafsky/slp3/9.pdf
-      # rlink:
-      due: Mid-Semester Evaluation
     - date: Oct 15
       theme: Tokenization and Generating from LMs
       # slides: "./assets/slides/24f-csci544-appliednlp-lec16-tokenization-generation.pdf"
@@ -124,7 +122,7 @@
           rlink: https://web.stanford.edu/~jurafsky/slp3/13.pdf
         - rname: J&M, Chap 2.5
           rlink: https://web.stanford.edu/~jurafsky/slp3/2.pdf
-      due: HW2 Due
+      due: HW2 Due; Mid-Semester Feedback
 
 - week: 9
   days:
