@@ -115,8 +115,8 @@
         - rname: J&M Chap 9
           rlink: https://web.stanford.edu/~jurafsky/slp3/9.pdf
     - date: Oct 15
-      theme: Tokenization and Generating from LMs
-      # slides: "./assets/slides/24f-csci544-appliednlp-lec16-tokenization-generation.pdf"
+      theme: Tokenization 
+      slides: "./assets/slides/25f-csci444-nlp-lec12-tokenization.pdf"
       readings:
         - rname: J&M, Chap 13
           rlink: https://web.stanford.edu/~jurafsky/slp3/13.pdf
