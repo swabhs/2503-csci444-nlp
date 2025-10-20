@@ -112,17 +112,13 @@
       readings:
         - rname: J&M Chap 8
           rlink: https://web.stanford.edu/~jurafsky/slp3/8.pdf
-        - rname: J&M Chap 9
-          rlink: https://web.stanford.edu/~jurafsky/slp3/9.pdf
     - date: Oct 15
-      theme: Tokenization 
+      theme: Tokenization
       slides: "./assets/slides/25f-csci444-nlp-lec12-tokenization.pdf"
       readings:
-        - rname: J&M, Chap 13
-          rlink: https://web.stanford.edu/~jurafsky/slp3/13.pdf
         - rname: J&M, Chap 2.5
           rlink: https://web.stanford.edu/~jurafsky/slp3/2.pdf
-      due: HW2 Due; Mid-Semester Feedback
+      due: HW2 Due
 
 - week: 9
   days:
@@ -130,7 +126,7 @@
       projectpresentations: Flipped Classroom - Project Discussions
       due: HW3 Released
     - date: Oct 22
-      theme: Pre-Training
+      theme: Language Generation
       readings:
         - rname: J&M, Chap 10
           rlink: https://web.stanford.edu/~jurafsky/slp3/10.pdf
