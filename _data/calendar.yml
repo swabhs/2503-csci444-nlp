@@ -124,7 +124,7 @@
   days:
     - date: Oct 20
       projectpresentations: Flipped Classroom - Project Discussions
-      due: HW3 Released
+      due: HW3 Released on Oct 21
     - date: Oct 22
       theme: Language Generation
       readings:
@@ -165,7 +165,6 @@
       quiz: Quiz 4
     - date: Nov 5
       theme: Evaluating Language Models
-      due: HW3 due
 
 - week: 12
   days:
@@ -179,6 +178,7 @@
     - date: Nov 17
       theme: Responsible Language Modeling # make this a discussion class with discussion of AI ethics.
       # slides: "./assets/slides/24f-csci544-appliednlp-lec21-guest-lecture-pretraining-llms.pdf"
+      due: HW3 Due
     - date: Nov 19
       theme: Advanced Topics
       slides:
