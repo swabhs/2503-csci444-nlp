@@ -127,6 +127,7 @@
       due: HW3 Released on Oct 21
     - date: Oct 22
       theme: Language Generation
+      slides: "./assets/slides/25f-csci444-nlp-lec13-generation.pdf"
       readings:
         - rname: J&M, Chap 10
           rlink: https://web.stanford.edu/~jurafsky/slp3/10.pdf
@@ -137,7 +138,7 @@
 - week: 10
   days:
     - date: Oct 27
-      theme: Pre-Training contd.
+      theme: Pre-Training 
       # slides: "./assets/slides/24f-csci544-appliednlp-lec18-llms.pdf"
       readings:
         - rname: J&M, Chap 10
@@ -157,30 +158,30 @@
 - week: 11
   days:
     - date: Nov 3
-      theme: Preference Tuning
+      theme: Evaluating Language Models
       # slides: "./assets/slides/24f-csci544-appliednlp-lec20-rlhf-harms.pdf"
       readings:
         - rname: J&M, Chap 12
           rlink: https://web.stanford.edu/~jurafsky/slp3/12.pdf
       quiz: Quiz 4
     - date: Nov 5
-      theme: Evaluating Language Models
+      paper: Paper Discussions I
 
 - week: 12
   days:
     - date: Nov 10
-      paper: Paper Presentations I
+      theme: Responsible Language Modeling
     - date: Nov 12
-      paper: Paper Presentations II
+      paper: Paper Discussion II
 
 - week: 13
   days:
     - date: Nov 17
-      theme: Responsible Language Modeling # make this a discussion class with discussion of AI ethics.
+      theme: Advanced Topics # make this a discussion class with discussion of AI ethics.
       # slides: "./assets/slides/24f-csci544-appliednlp-lec21-guest-lecture-pretraining-llms.pdf"
       due: HW3 Due
     - date: Nov 19
-      theme: Advanced Topics
+      paper: Paper Discussion III
       slides:
       readings:
       rlink:
