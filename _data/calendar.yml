@@ -129,63 +129,91 @@
       theme: Language Generation
       slides: "./assets/slides/25f-csci444-nlp-lec13-generation.pdf"
       readings:
-        - rname: J&M, Chap 10
-          rlink: https://web.stanford.edu/~jurafsky/slp3/10.pdf
-        - rname: J&M, Chap 12
+        - rname: J&M, Chap 7.4
+          rlink: https://web.stanford.edu/~jurafsky/slp3/7.pdf
+        - rname: J&M, Chap 12.4
           rlink: https://web.stanford.edu/~jurafsky/slp3/12.pdf
       quiz: Quiz 3
 
 - week: 10
   days:
     - date: Oct 27
-      theme: Pre-Training 
-      # slides: "./assets/slides/24f-csci544-appliednlp-lec18-llms.pdf"
+      theme: Language Generation (contd.)
+      # slides: "./assets/slides/25f-csci444-nlp-lec14-generation-contd.pdf"
       readings:
-        - rname: J&M, Chap 10
-          rlink: https://web.stanford.edu/~jurafsky/slp3/10.pdf
-        - rname: J&M, Chap 12
-          rlink: https://web.stanford.edu/~jurafsky/slp3/12.pdf
+        - rname: J&M, Chap 7.4 + 7.6
+          rlink: https://web.stanford.edu/~jurafsky/slp3/7.pdf
     - date: Oct 29
-      theme: Post-Training
-      # slides: "./assets/slides/24f-csci544-appliednlp-lec19-post-training.pdf"
+      theme: Pre-Training and Post-Training LLMs
+      # slides: "./assets/slides/24f-csci544-appliednlp-lec18-llms.pdf"
+      # slides: "./assets/slides/24f-csci544-appliednlp-lec21-guest-lecture-pretraining-llms.pdf"
       readings:
-        - rname: J&M, Chap 10
-          rlink: https://web.stanford.edu/~jurafsky/slp3/10.pdf
-        - rname: J&M, Chap 12
-          rlink: https://web.stanford.edu/~jurafsky/slp3/12.pdf
+        - rname: J&M, Chap 7
+          rlink: https://web.stanford.edu/~jurafsky/slp3/7.pdf
+          rname: J&M, Chap 9
+          rlink: https://web.stanford.edu/~jurafsky/slp3/9.pdf
       project: Project Status Report Due
 
 - week: 11
   days:
     - date: Nov 3
-      theme: Evaluating Language Models
-      # slides: "./assets/slides/24f-csci544-appliednlp-lec20-rlhf-harms.pdf"
+      theme: Post-Training (contd.)
+      # slides: "./assets/slides/24f-csci544-appliednlp-lec19-post-training.pdf"
       readings:
-        - rname: J&M, Chap 12
-          rlink: https://web.stanford.edu/~jurafsky/slp3/12.pdf
+        - rname: J&M, Chap 9
+          rlink: https://web.stanford.edu/~jurafsky/slp3/9.pdf
       quiz: Quiz 4
     - date: Nov 5
       paper: Paper Discussions I
+      readings:
+        - rname: DPO
+          rlink: https://arxiv.org/abs/2305.18290
+        - rname: InstructGPT
+          rlink: https://arxiv.org/abs/2203.02155
+        - rname: LoRa
+          rlink: https://arxiv.org/abs/2106.09685
 
 - week: 12
   days:
     - date: Nov 10
-      theme: Responsible Language Modeling
+      theme: Evaluating LLMs
+      # add my own slides on evaluating LLMs on real world use cases
+      readings:
+        - rname: J&M, Chap 7.6
+          rlink: https://web.stanford.edu/~jurafsky/slp3/7.pdf
+      quiz: Quiz 5
     - date: Nov 12
       paper: Paper Discussion II
+      readings:
+        - rname: MMLU
+          rlink: https://arxiv.org/abs/2009.03300
+        - rname: ChatBot Arena
+          rlink: https://arxiv.org/abs/2403.04132
+        - rname: WildChat
+          rlink: https://arxiv.org/abs/2405.01470
+
 
 - week: 13
   days:
     - date: Nov 17
-      theme: Advanced Topics # make this a discussion class with discussion of AI ethics.
-      # slides: "./assets/slides/24f-csci544-appliednlp-lec21-guest-lecture-pretraining-llms.pdf"
+      theme: Responsible Language Modeling
+      # slides: "./assets/slides/24f-csci544-appliednlp-lec20-rlhf-harms.pdf"
+      # add my slides on safety and accountability
+      readings:
+        - rname: J&M, Chap 7.7
+          rlink: https://web.stanford.edu/~jurafsky/slp3/7.pdf
       due: HW3 Due
     - date: Nov 19
       paper: Paper Discussion III
-      slides:
       readings:
-      rlink:
-      quiz: Quiz 5
+        - rname: ConstitutionalAI
+          rlink: https://arxiv.org/abs/2212.08073
+        - rname: Generative AI and Critical Thinking
+          rlink: https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf
+        - rname: MoralSim
+          rlink: https://arxiv.org/abs/2505.19212
+        - rname: Clio
+          rlink: https://arxiv.org/abs/2412.13678
 
 - week: 14
   days:
