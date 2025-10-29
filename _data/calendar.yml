@@ -143,15 +143,20 @@
       readings:
         - rname: J&M, Chap 7.4 + 7.6
           rlink: https://web.stanford.edu/~jurafsky/slp3/7.pdf
+        - rname: Nucleus Sampling
+          rlink: https://arxiv.org/abs/1904.09751
     - date: Oct 29
       theme: Pre-Training and Prompting LLMs
-      # slides: "./assets/slides/24f-csci544-appliednlp-lec18-llms.pdf"
-      # slides: "./assets/slides/24f-csci544-appliednlp-lec21-guest-lecture-pretraining-llms.pdf"
+      # slides: "./assets/slides/25f-csci444-nlp-lec15-pretraining-llms.pdf"
       readings:
         - rname: J&M, Chap 7
           rlink: https://web.stanford.edu/~jurafsky/slp3/7.pdf
-          rname: J&M, Chap 9
-          rlink: https://web.stanford.edu/~jurafsky/slp3/9.pdf
+        - rname: The Llama 3 Herd of Models
+          rlink: https://arxiv.org/abs/2407.21783
+        - rname: OLMo 2.0
+          rlink: https://arxiv.org/abs/2501.00656
+        - rname: Switch Transformers
+          rlink: https://arxiv.org/abs/2101.03961
       project: Project Status Report Due
 
 - week: 11
@@ -172,7 +177,7 @@
           rlink: https://arxiv.org/abs/2203.02155
         - rname: LoRa
           rlink: https://arxiv.org/abs/2106.09685
-          # TULU3, llama-3herd, RLVR spurious rewards: https://arxiv.org/abs/2506.10947?
+          # TULU3, , RLVR spurious rewards: https://arxiv.org/abs/2506.10947?
 
 - week: 12
   days:
@@ -199,7 +204,7 @@
     - date: Nov 17
       theme: Responsible Language Modeling
       # slides: "./assets/slides/24f-csci544-appliednlp-lec20-rlhf-harms.pdf"
-      # add my slides on safety and accountability
+      # add my slides on safety and accountability. expand on data watermarks. other topics: jailbreaking, membership inference attacks
       readings:
         - rname: J&M, Chap 7.7
           rlink: https://web.stanford.edu/~jurafsky/slp3/7.pdf
@@ -211,15 +216,14 @@
           rlink: https://arxiv.org/abs/2212.08073
         - rname: Generative AI and Critical Thinking
           rlink: https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf
-        - rname: MoralSim
-          rlink: https://arxiv.org/abs/2505.19212
         - rname: Clio
           rlink: https://arxiv.org/abs/2412.13678
+          # MoralSim: https://arxiv.org/abs/2505.19212, rewardbench??
 
 - week: 14
   days:
     - date: Nov 24
-      theme: Outro
+      theme: Miscellaneous Topics and Outro # other topics? distillation? llm inference? kv cache?
       #quiz: Makeup Quiz
     - date: Nov 26
       break: Thanksgiving
