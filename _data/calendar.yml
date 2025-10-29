@@ -146,8 +146,8 @@
         - rname: Nucleus Sampling
           rlink: https://arxiv.org/abs/1904.09751
     - date: Oct 29
-      theme: Pre-Training and Prompting LLMs
-      # slides: "./assets/slides/25f-csci444-nlp-lec15-pretraining-llms.pdf"
+      theme: Pre-Training LLMs
+      slides: "./assets/slides/25f-csci444-nlp-lec15-pretraining-llms.pdf"
       readings:
         - rname: J&M, Chap 7
           rlink: https://web.stanford.edu/~jurafsky/slp3/7.pdf
