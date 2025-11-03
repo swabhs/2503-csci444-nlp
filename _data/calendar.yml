@@ -97,6 +97,7 @@
   days:
     - date: Oct 6
       theme: PyTorch for Transformers (Lecture by Johnny Wei)
+      slides: https://colab.research.google.com/drive/1Xsg4HXW0zHnvRl1vgl_CjQm8E_VeYV8d?usp=sharing
     - date: Oct 8
       break: Fall Break
       slides:
@@ -163,7 +164,7 @@
   days:
     - date: Nov 3
       theme: Post-Training LLMs
-      # slides: "./assets/slides/24f-csci544-appliednlp-lec19-post-training.pdf"
+      slides: "./assets/slides/25f-csci444-nlp-lec16-post-training-llms.pdf"
       readings:
         - rname: J&M, Chap 9
           rlink: https://web.stanford.edu/~jurafsky/slp3/9.pdf
