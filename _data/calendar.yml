@@ -172,12 +172,12 @@
     - date: Nov 5
       paper: Paper Discussions I
       readings:
-        - rname: DPO
-          rlink: https://arxiv.org/abs/2305.18290
-        - rname: InstructGPT
-          rlink: https://arxiv.org/abs/2203.02155
         - rname: LoRa
           rlink: https://arxiv.org/abs/2106.09685
+        - rname: InstructGPT
+          rlink: https://arxiv.org/abs/2203.02155
+        - rname: DPO
+          rlink: https://arxiv.org/abs/2305.18290
           # TULU3, , RLVR spurious rewards: https://arxiv.org/abs/2506.10947?
 
 - week: 12
@@ -188,16 +188,18 @@
       readings:
         - rname: J&M, Chap 7.6
           rlink: https://web.stanford.edu/~jurafsky/slp3/7.pdf
+        - rname: Holistic Evaluation of Language Models
+          rlink: https://arxiv.org/abs/2211.09110
     - date: Nov 12
       paper: Paper Discussion II
       readings:
         - rname: MMLU
           rlink: https://arxiv.org/abs/2009.03300
+        - rname: Dynabench
+          rlink: https://arxiv.org/abs/2104.14337
         - rname: ChatBot Arena
           rlink: https://arxiv.org/abs/2403.04132
-        - rname: WildChat
-          rlink: https://arxiv.org/abs/2405.01470
-
+        # WildChat: https://arxiv.org/abs/2405.01470
 
 - week: 13
   days:
@@ -212,13 +214,15 @@
     - date: Nov 19
       paper: Paper Discussion III
       readings:
-        - rname: ConstitutionalAI
-          rlink: https://arxiv.org/abs/2212.08073
+        - rname: Red-Teaming
+          rlink: https://arxiv.org/abs/2209.07858
+        - rname: Adversarial Attacks on Aligned LMs
+          rlink: https://arxiv.org/pdf/2307.15043
         - rname: Generative AI and Critical Thinking
           rlink: https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf
-        - rname: Clio
-          rlink: https://arxiv.org/abs/2412.13678
-          # MoralSim: https://arxiv.org/abs/2505.19212, rewardbench??
+        # - rname: Clio
+        #   rlink: https://arxiv.org/abs/2412.13678
+          # MoralSim: https://arxiv.org/abs/2505.19212, rewardbench??, ConstitutionalAI: https://arxiv.org/abs/2212.08073
 
 - week: 14
   days:
