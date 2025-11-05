@@ -188,7 +188,6 @@
       readings:
         - rname: J&M, Chap 7.6
           rlink: https://web.stanford.edu/~jurafsky/slp3/7.pdf
-      quiz: Quiz 5
     - date: Nov 12
       paper: Paper Discussion II
       readings:
@@ -225,7 +224,7 @@
   days:
     - date: Nov 24
       theme: Miscellaneous Topics and Outro # other topics? distillation? llm inference? kv cache?
-      #quiz: Makeup Quiz
+      quiz: Quiz 5
     - date: Nov 26
       break: Thanksgiving
 
