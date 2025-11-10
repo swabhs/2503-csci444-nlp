@@ -184,12 +184,14 @@
   days:
     - date: Nov 10
       theme: Evaluating LLMs
-      # add my own slides on evaluating LLMs on real world use cases
+      slides: "./assets/slides/25f-csci444-nlp-lec17-evaluation.pdf"
       readings:
         - rname: J&M, Chap 7.6
           rlink: https://web.stanford.edu/~jurafsky/slp3/7.pdf
         - rname: Holistic Evaluation of Language Models
           rlink: https://arxiv.org/abs/2211.09110
+        - rname: MAUVE
+          rlink: https://arxiv.org/abs/2102.01454 
     - date: Nov 12
       paper: Paper Discussion II
       readings:
@@ -199,7 +201,7 @@
           rlink: https://arxiv.org/abs/2104.14337
         - rname: ChatBot Arena
           rlink: https://arxiv.org/abs/2403.04132
-        # WildChat: https://arxiv.org/abs/2405.01470
+        # WildChat: https://arxiv.org/abs/2405.01470 / Mauve
 
 - week: 13
   days:
