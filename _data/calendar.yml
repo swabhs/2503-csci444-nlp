@@ -198,7 +198,7 @@
       readings:
         - rname: MMLU
           rlink: https://arxiv.org/abs/2009.03300
-        - rname: Dynabench
+        - rname: Dynabench #maybe discard later, try dynaboard?
           rlink: https://arxiv.org/abs/2104.14337
         - rname: ChatBot Arena
           rlink: https://arxiv.org/abs/2403.04132
@@ -233,7 +233,7 @@
   days:
     - date: Nov 24
       theme: Miscellaneous Topics and Outro # other topics? distillation? test time scaling? kv cache? membership inference attacks?
-      quiz: Quiz 5
+      quiz: Quiz 5 + Bonus Questions
     - date: Nov 26
       break: Thanksgiving
 
