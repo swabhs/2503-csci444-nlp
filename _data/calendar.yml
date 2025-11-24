@@ -196,13 +196,14 @@
     - date: Nov 12
       paper: Paper Discussion II
       readings:
-        - rname: MMLU
+        - rname: MMLU. # kinda boring
           rlink: https://arxiv.org/abs/2009.03300
-        - rname: Dynabench #maybe discard later, try dynaboard?
+        - rname: Dynabench # kinda boring paper, maybe discard for later years, try dynaboard?
           rlink: https://arxiv.org/abs/2104.14337
-        - rname: ChatBot Arena
+        - rname: ChatBot Arena # hit
           rlink: https://arxiv.org/abs/2403.04132
-        # WildChat: https://arxiv.org/abs/2405.01470 / Mauve
+        # WildChat: https://arxiv.org/abs/2405.01470
+        # Mauve???
 
 - week: 13
   days:
@@ -216,11 +217,11 @@
     - date: Nov 19
       paper: Paper Discussion III
       readings:
-        - rname: Red-Teaming
+        - rname: Red-Teaming # people liked this, even though it was hci flavored
           rlink: https://arxiv.org/abs/2209.07858
-        - rname: Adversarial Attacks on Aligned LMs
+        - rname: Adversarial Attacks on Aligned LMs # big hit
           rlink: https://arxiv.org/pdf/2307.15043
-        - rname: Generative AI and Critical Thinking
+        - rname: Generative AI and Critical Thinking # too HCI students got bored...
           rlink: https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf
         # on targeted manipulation, nice complement to instructgpt. https://arxiv.org/abs/2411.02306
         # Clio : https://arxiv.org/abs/2412.13678
@@ -232,7 +233,7 @@
 - week: 14
   days:
     - date: Nov 24
-      theme: Miscellaneous Topics and Outro # other topics? distillation? test time scaling? kv cache? membership inference attacks?
+      theme: Outro # other topics? distillation? test time scaling? kv cache? membership inference attacks?
       quiz: Quiz 5 + Bonus Questions
     - date: Nov 26
       break: Thanksgiving
