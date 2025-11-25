@@ -234,6 +234,7 @@
   days:
     - date: Nov 24
       theme: Outro # other topics? distillation? test time scaling? kv cache? membership inference attacks?
+      slides: "./assets/slides/25f-csci444-nlp-lec19-outro.pdf"
       quiz: Quiz 5 + Bonus Questions
     - date: Nov 26
       break: Thanksgiving
