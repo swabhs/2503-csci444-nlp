@@ -60,4 +60,4 @@ The final deliverable for the project is the an 8-page progress report (using th
 - References (please follow the formatting closely).
 - Appendix (unlimited length) with all additional details.
 
-Please use the appendix for any additional details which do not fit 8 pages, as well as point to the appendix from the main report. All projects will be graded taking into consideration prior feedback given throughout the project.
+Please use the appendix for any additional details which do not fit 8 pages, as well as point to the appendix from the main report. Please include a (Github) link to the code. All projects will be graded taking into consideration prior feedback given throughout the project.
