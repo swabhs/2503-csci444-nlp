@@ -42,11 +42,22 @@ While the initial results might be inconclusive, you are expected to have made n
 
 ### Project final presentation (15%).
 
-TBD
-
-
+Please prepare for a 15-20 mins presentation + 5-10 mins QA. Too long / too short presentations will be penalized. There should be some more progress since the progress report. Please show up for other presentations + ask questions - this will be part of your participation grade. After the presentation, please upload your project slides in Brightspace for grading
 
 
 ### Project final report (15%).
 
-TBD
+The final deliverable for the project is the an 8-page progress report (using the *CL paper submission template). This report should be comprehensive, contain all the details in the project, fit for a new reader. The report should contain:
+
+- A short abstract, highlighting the goal of the project and a single takeaway from the results.
+- Introduction and motivation for the problem. What are the key hypotheses?
+- Related Work (brief; additional details can be moved to the appendix)
+- A clear description of the method, with as many details as possible. Diagrams encouraged.
+- Data used. If new data was collected, detailed description of the collection / preprocessing.
+- Experimental settings, which model / tools were used, as well as hyperparameter settings.
+- Quantitative results in a tabular format, as well as textual description. Qualitative results (for e.g., input / output pairs from your model) are encouraged. If too large, can add to appendix and point to it.
+- Analysis / discussion of the key findings (was your hypothesis satisfied?) and future work.
+- References (please follow the formatting closely).
+- Appendix (unlimited length) with all additional details.
+
+Please use the appendix for any additional details which do not fit 8 pages, as well as point to the appendix from the main report. All projects will be graded taking into consideration prior feedback given throughout the project.
