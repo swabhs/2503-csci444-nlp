@@ -147,7 +147,7 @@ All written assignments related to the final project should use the standard [*A
 
 ## Late Days
 
-Students are allowed a maximum of 6 late days total for all assignments (but NOT the quizzes or presentations). You may use up to 3 late days per assignment. Using one late day for a project assignment involves each of the teammates using a late day each. Partial late days are not permitted. For every extra late day beyond the allowed late days, the student / team will lose 20% of the grade for the assignment.
+Students are allowed a maximum of 6 late days total for all assignments (but NOT the quizzes, presentations or the final report). You may use up to 3 late days per assignment. Using one late day for a project assignment involves each of the teammates using a late day each. Partial late days are not permitted. For every extra late day beyond the allowed late days, the student / team will lose 20% of the grade for the assignment.
 
 **Note:** Please familiarize yourself with the [academic policies](details/policies/#policies) and read the [note about student well-being](details/policies/#student-well-being).
 
