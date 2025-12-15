@@ -133,8 +133,8 @@ There will be three components to course grades:
   * [Pitch](details/project/#project-pitch-5): 5%
   * [Proposal](details/project/#project-proposal-10): 10%
   * [Status Reports](details/project/#project-progress-report-10): 10%
-  * Project Presentation: 15%
-  * Final Write-up: 15%
+  * [Project Presentation](details/project/#project-final-presentation-15): 15%
+  * [Final Write-up](details/project/#project-final-report-15): 15%
 * **Paper Discussions (10%).**<!--The project teams will present a scientific publication related to their project to the class. All members of the team are expected to identify the central points of the research, and present that research to the class, as well as answer questions from the instructor, TAs and fellow students. * One member of team---randomly picked by the instructors a couple of hours before the presentation---will be the presenter, so please prepare accordingly! The presenter is responsible for the entire team’s grade, so please ensure both you and your teammates are prepared! The total time of each team's presentation is 5 minutes (3 min presentation + 2 min QA) - we will be very strict about this. If you are NOT presenting, you could participate in Q/A - bonus points will be awarded to folks who ask insightful questions (announce your name before you ask a question).  Each team will prepare 3 slides (via Google slides) to be shared with their assigned TAs by 11:59 PM the day before the presentation. Failure to share will cause a loss of grade.   * Content of the slides:     * Slide 1: Main Research Question in the paper,     * Slide 2: Main Results Summarized,     * Slide 3: How this influences your project. -->
   * Based on student feedback, we will now have 3 classes full of paper discussions, where we will discuss a total of 9 papers on advanced topics. Students will be graded on their ability to summarize and critique papers.
 * **Class Participation (5%)**
